@@ -1,0 +1,46 @@
+/* Created by Rania Emran */
+
+body {
+    height:100vh;
+    margin: 0;
+    overflow: hidden;
+    background-color: white;
+    text-align: center;
+    transition: background-color 1s;
+}
+
+canvas {
+     display: block;
+}
+
+#colors, #bgcolors{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+button {
+    /*flex: auto;*/
+    height: 5vh;
+    aspect-ratio:1;
+    border-radius: 50%;
+}
+
+
+#bgcolors{
+    position: absolute ;
+    bottom: 0;
+    width: 100%;
+    
+}
+
+input{
+    width:90%;
+    height: 20px;
+    accent-color: black;
+}
+
+#top {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
