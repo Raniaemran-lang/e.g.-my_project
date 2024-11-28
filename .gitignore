@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Random Fireworks</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <canvas id="fireworksCanvas"></canvas>
+  <!-- Script is now loaded at the end -->
+  <script src="fireworks.js"></script>
+</body>
+</html>
