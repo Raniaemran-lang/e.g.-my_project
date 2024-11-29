@@ -5,3 +5,5 @@
 .ssh/
 my_pat.txt
 "my_project/my_project/ssh-keygen*"
+.gitpat
+.bash_history
